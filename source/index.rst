@@ -10,6 +10,7 @@ FET3506-C / OK3506-C Documentation Library
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
+For More information, please visit: www.forlinx.net
 
 .. 手动添加左侧导航栏想收录的文件
 .. toctree::
